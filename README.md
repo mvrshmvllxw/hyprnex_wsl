@@ -318,7 +318,7 @@ ExplorerBlurMica (search web)
     OldNewExplorer (search web)
 ```
 
-- install icons theme (Colloid) thrue
+- install icons theme (Colloid) via
 ```
     7tsp (search web)
 ```
